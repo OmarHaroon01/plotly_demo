@@ -1,0 +1,8 @@
+yfinance
+langchain
+langchain-cohere
+plotly
+pandas
+dash
+dash-bootstrap-components
+kaleido
